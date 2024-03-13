@@ -1,1 +1,1 @@
-#Proiect Sisteme de operare -> Thread pool
+# Proiect Sisteme de operare -> Thread pool
